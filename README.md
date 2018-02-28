@@ -1,3 +1,6 @@
+**This library doesn't seem to work anymore. Use https://github.com/yeriomin/play-store-api instead.**
+
+
 Google Play Crawler JAVA API
 ===================
 
